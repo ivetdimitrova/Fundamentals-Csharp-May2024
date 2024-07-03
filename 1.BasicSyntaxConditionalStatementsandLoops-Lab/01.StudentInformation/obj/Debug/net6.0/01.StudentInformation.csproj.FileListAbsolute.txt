@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\bin\Debug\net6.0\01.StudentInformation.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\refint\01.StudentInformation.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\01.StudentInformation.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\01.StudentInformation\obj\Debug\net6.0\ref\01.StudentInformation.dll

@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\refint\12.EvenNumber.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\12.EvenNumber\obj\Debug\net6.0\ref\12.EvenNumber.dll

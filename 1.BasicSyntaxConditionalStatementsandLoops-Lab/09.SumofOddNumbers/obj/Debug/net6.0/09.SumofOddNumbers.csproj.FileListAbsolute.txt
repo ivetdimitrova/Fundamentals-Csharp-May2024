@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net6.0\09.SumofOddNumbers.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net6.0\09.SumofOddNumbers.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net6.0\09.SumofOddNumbers.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net6.0\09.SumofOddNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\bin\Debug\net6.0\09.SumofOddNumbers.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\09.SumofOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\09.SumofOddNumbers.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\09.SumofOddNumbers.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\09.SumofOddNumbers.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\09.SumofOddNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\refint\09.SumofOddNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\09.SumofOddNumbers.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\09.SumofOddNumbers.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Lab\09.SumofOddNumbers\obj\Debug\net6.0\ref\09.SumofOddNumbers.dll

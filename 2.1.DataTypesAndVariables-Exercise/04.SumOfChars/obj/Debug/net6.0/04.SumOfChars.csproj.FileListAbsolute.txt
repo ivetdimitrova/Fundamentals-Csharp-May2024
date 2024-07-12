@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\refint\04.SumOfChars.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\ref\04.SumOfChars.dll

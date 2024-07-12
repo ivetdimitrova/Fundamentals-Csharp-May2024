@@ -1,0 +1,14 @@
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.exe
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.deps.json
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.runtimeconfig.json
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.dll
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\bin\Debug\net6.0\07.VehicleCatalogue.pdb
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.dll
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\refint\07.VehicleCatalogue.dll
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.pdb
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\07.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\07.VehicleCatalogue\obj\Debug\net6.0\ref\07.VehicleCatalogue.dll

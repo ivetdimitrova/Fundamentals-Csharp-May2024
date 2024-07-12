@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\05.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\05.TeamworkProjects.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\05.TeamworkProjects.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\bin\Debug\net6.0\05.TeamworkProjects.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\bin\Debug\net6.0\05.TeamworkProjects.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\bin\Debug\net6.0\05.TeamworkProjects.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\bin\Debug\net6.0\05.TeamworkProjects.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\bin\Debug\net6.0\05.TeamworkProjects.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\05.TeamworkProjects.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\refint\05.TeamworkProjects.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\05.TeamworkProjects.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\05.TeamworkProjects.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\ObjectsАndClasses-Exercise\05.TeamworkProjects\obj\Debug\net6.0\ref\05.TeamworkProjects.dll

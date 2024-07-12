@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\bin\Debug\net6.0\05.Login.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\refint\05.Login.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\05.Login.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\05.Login\obj\Debug\net6.0\ref\05.Login.dll

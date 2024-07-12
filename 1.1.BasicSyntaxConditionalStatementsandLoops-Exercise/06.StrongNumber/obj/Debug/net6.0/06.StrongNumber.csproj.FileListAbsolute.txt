@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\bin\Debug\net6.0\06.StrongNumber.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\refint\06.StrongNumber.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\06.StrongNumber.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\06.StrongNumber\obj\Debug\net6.0\ref\06.StrongNumber.dll

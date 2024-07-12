@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\net6.0\07.WaterOverflow.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\refint\07.WaterOverflow.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\07.WaterOverflow.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\2.1.DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\net6.0\ref\07.WaterOverflow.dll

@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\refint\06.MiddleCharacters.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\06.MiddleCharacters\obj\Debug\net6.0\ref\06.MiddleCharacters.dll

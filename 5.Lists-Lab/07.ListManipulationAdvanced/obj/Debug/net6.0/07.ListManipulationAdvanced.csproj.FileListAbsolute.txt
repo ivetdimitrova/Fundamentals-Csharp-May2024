@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\bin\Debug\net6.0\07.ListManipulationAdvanced.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\bin\Debug\net6.0\07.ListManipulationAdvanced.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\bin\Debug\net6.0\07.ListManipulationAdvanced.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\bin\Debug\net6.0\07.ListManipulationAdvanced.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\bin\Debug\net6.0\07.ListManipulationAdvanced.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\07.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\07.ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\07.ListManipulationAdvanced.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\07.ListManipulationAdvanced.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\refint\07.ListManipulationAdvanced.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\07.ListManipulationAdvanced.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\07.ListManipulationAdvanced.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\07.ListManipulationAdvanced\obj\Debug\net6.0\ref\07.ListManipulationAdvanced.dll

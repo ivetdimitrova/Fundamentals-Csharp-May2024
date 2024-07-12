@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\bin\Debug\net6.0\06.ListManipulationBasics.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\refint\06.ListManipulationBasics.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\06.ListManipulationBasics.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\06.ListManipulationBasics\obj\Debug\net6.0\ref\06.ListManipulationBasics.dll

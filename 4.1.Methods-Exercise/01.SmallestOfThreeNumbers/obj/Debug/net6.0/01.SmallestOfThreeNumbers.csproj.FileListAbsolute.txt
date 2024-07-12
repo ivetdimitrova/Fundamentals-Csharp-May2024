@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\refint\01.SmallestOfThreeNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Methods-Exercise\01.SmallestOfThreeNumbers\obj\Debug\net6.0\ref\01.SmallestOfThreeNumbers.dll

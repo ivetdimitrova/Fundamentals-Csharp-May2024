@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\bin\Debug\net6.0\07.VendingMachine.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\refint\07.VendingMachine.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\07.VendingMachine.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\07.VendingMachine\obj\Debug\net6.0\ref\07.VendingMachine.dll

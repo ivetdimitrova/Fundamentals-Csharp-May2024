@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\refint\01.CountRealNumbers.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Lab\01.CountRealNumbers\obj\Debug\net6.0\ref\01.CountRealNumbers.dll

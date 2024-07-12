@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\bin\Debug\net6.0\05.RemoveNegativesAndReverse.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\refint\05.RemoveNegativesAndReverse.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\05.RemoveNegativesAndReverse.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\5.Lists-Lab\05.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\05.RemoveNegativesAndReverse.dll

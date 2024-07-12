@@ -1,0 +1,14 @@
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\bin\Debug\net6.0\05.Students2.0.exe
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\bin\Debug\net6.0\05.Students2.0.deps.json
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\bin\Debug\net6.0\05.Students2.0.runtimeconfig.json
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\bin\Debug\net6.0\05.Students2.0.dll
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\bin\Debug\net6.0\05.Students2.0.pdb
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\05.Students2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\05.Students2.0.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\05.Students2.0.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\05.Students2.0.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\05.Students2.0.dll
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\refint\05.Students2.0.dll
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\05.Students2.0.pdb
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\05.Students2.0.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\ObjectsandClasses-Lab\05.Students2.0\obj\Debug\net6.0\ref\05.Students2.0.dll

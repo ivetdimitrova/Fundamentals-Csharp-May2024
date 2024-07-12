@@ -1,0 +1,14 @@
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.exe
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.deps.json
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.runtimeconfig.json
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.dll
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\bin\Debug\net6.0\04.CenturiesToMinutes.pdb
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.dll
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\refint\04.CenturiesToMinutes.dll
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.pdb
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\04.CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\04.CenturiesToMinutes\obj\Debug\net6.0\ref\04.CenturiesToMinutes.dll

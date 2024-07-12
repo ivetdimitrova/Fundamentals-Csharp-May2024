@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\bin\Debug\net6.0\01.IntegerOperations.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\refint\01.IntegerOperations.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\01.IntegerOperations.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\DataTypesAndVariables-Exercise\01.IntegerOperations\obj\Debug\net6.0\ref\01.IntegerOperations.dll

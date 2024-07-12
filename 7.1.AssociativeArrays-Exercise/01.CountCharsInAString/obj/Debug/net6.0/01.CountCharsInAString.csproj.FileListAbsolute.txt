@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\refint\01.CountCharsInAString.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\AssociativeArrays-Exercise\01.CountCharsInAString\obj\Debug\net6.0\ref\01.CountCharsInAString.dll

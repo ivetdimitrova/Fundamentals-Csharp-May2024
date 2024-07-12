@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\02.PrintNumbersInReverseOrder.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\02.PrintNumbersInReverseOrder.dll

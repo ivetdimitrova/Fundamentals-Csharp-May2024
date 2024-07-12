@@ -1,0 +1,14 @@
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\bin\Debug\net6.0\02.PoundstoDollars.exe
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\bin\Debug\net6.0\02.PoundstoDollars.deps.json
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\bin\Debug\net6.0\02.PoundstoDollars.runtimeconfig.json
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\bin\Debug\net6.0\02.PoundstoDollars.dll
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\bin\Debug\net6.0\02.PoundstoDollars.pdb
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\02.PoundstoDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\02.PoundstoDollars.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\02.PoundstoDollars.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\02.PoundstoDollars.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\02.PoundstoDollars.dll
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\refint\02.PoundstoDollars.dll
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\02.PoundstoDollars.pdb
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\02.PoundstoDollars.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\DataTypesandVariables-Lab\02.PoundstoDollars\obj\Debug\net6.0\ref\02.PoundstoDollars.dll

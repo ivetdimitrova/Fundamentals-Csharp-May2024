@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\refint\09.PadawanEquipment.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\BasicSyntaxConditionalStatementsandLoops-Exercise\09.PadawanEquipment\obj\Debug\net6.0\ref\09.PadawanEquipment.dll

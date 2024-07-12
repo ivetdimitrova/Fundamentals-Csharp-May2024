@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\refint\04.ReverseArrayOfStrings.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\ref\04.ReverseArrayOfStrings.dll

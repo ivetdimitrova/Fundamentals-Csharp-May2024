@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\refint\03.Zig-ZagArrays.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\Arrays-Exercisе\03.Zig-ZagArrays\obj\Debug\net6.0\ref\03.Zig-ZagArrays.dll

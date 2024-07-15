@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\refint\04.CaesarCipher.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\8.1.TextProcessing-Exercise\04.CaesarCipher\obj\Debug\net6.0\ref\04.CaesarCipher.dll

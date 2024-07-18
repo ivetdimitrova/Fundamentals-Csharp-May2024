@@ -1,0 +1,14 @@
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.exe
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.deps.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.runtimeconfig.json
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.AssemblyInfoInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.AssemblyInfo.cs
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.csproj.CoreCompileInputs.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\refint\03.MatchDates.dll
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.pdb
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.genruntimeconfig.cache
+C:\1.C#\Programming Fundamentals with C# - май 2024\9.RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\ref\03.MatchDates.dll
